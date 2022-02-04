@@ -3,3 +3,27 @@
 ################################################################################
 
 /.vs
+/Employee.API/bin/Debug/net5.0
+/Employee.API/obj
+/Employee.API.Test/bin/Debug/net5.0
+/Employee.API.Test/obj
+/Employee.Application/bin/Debug/net5.0
+/Employee.Application/obj
+/Employee.Application.Test/bin/Debug/net5.0
+/Employee.Application.Test/obj
+/Employee.Common/bin/Debug/net5.0
+/Employee.Common/obj
+/Employee.Common.Test/bin/Debug/net5.0
+/Employee.Common.Test/obj
+/Employee.Domain/bin/Debug/net5.0
+/Employee.Domain/obj
+/Employee.Domain.Test/bin/Debug/net5.0
+/Employee.Domain.Test/obj
+/Employee.Infrastructure/bin/Debug/net5.0
+/Employee.Infrastructure/obj
+/Employee.Infrastructure.Test/bin/Debug/net5.0
+/Employee.Infrastructure.Test/obj
+/Employee.Persistence/bin/Debug/net5.0
+/Employee.Persistence/obj
+/Employee.Persistence.Test/bin/Debug/net5.0
+/Employee.Persistence.Test/obj
